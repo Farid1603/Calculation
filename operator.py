@@ -3,4 +3,4 @@ b=543
 
 "Division"
 e=a/b
-print(e)
+print (e)
